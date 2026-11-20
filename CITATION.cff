@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article and this repository."
+title: "Code and data for: Contextual Importance and Utility: Separating Climatic Drivers from Limiting Factors in Species Distribution Models for Bird Conservation"
+type: software
+version: 1.0.0
+authors:
+  - family-names: "EL BOUHALI"
+    given-names: "Abdel Moula"
+    orcid: "https://orcid.org/0009-0001-5117-2713"
+    affiliation: "ENSIAS, Mohammed V University in Rabat"
+  - family-names: "Idri"
+    given-names: "Ali"
+    orcid: "https://orcid.org/0000-0002-4586-4158"
+    affiliation: "ENSIAS, Mohammed V University in Rabat"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - species distribution models
+  - explainable artificial intelligence
+  - contextual importance and utility
+  - limiting factors
+  - Moroccan avifauna

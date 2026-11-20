@@ -1,0 +1,10 @@
+ci_cut,cu_cut,OPTIMAL,LIMITING_FACTOR,LOW_INFLUENCE,most_constrained,second
+0.25,0.4,530,14,113,Phoenicurus_phoenicurus,Oenanthe_oenanthe
+0.25,0.5,491,53,113,Phoenicurus_ochruros,Phoenicurus_phoenicurus
+0.25,0.6,171,373,113,Phoenicurus_ochruros,Oenanthe_oenanthe
+0.3,0.4,460,13,184,Phoenicurus_phoenicurus,Oenanthe_oenanthe
+0.3,0.5,423,50,184,Phoenicurus_ochruros,Phoenicurus_phoenicurus
+0.3,0.6,158,315,184,Phoenicurus_ochruros,Oenanthe_oenanthe
+0.35,0.4,376,10,271,Oenanthe_oenanthe,Upupa_epops
+0.35,0.5,348,38,271,Phoenicurus_ochruros,Oenanthe_oenanthe
+0.35,0.6,146,240,271,Phoenicurus_ochruros,Upupa_epops
