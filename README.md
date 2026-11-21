@@ -113,5 +113,7 @@ included; step 1 downloads them from the WorldClim server.
 - Models, results and figures: CC BY 4.0 (`LICENSE-DATA.md`).
 - GBIF occurrence records in `data/`: the licence of each original publisher
   (CC0, CC BY or CC BY-NC); see `LICENSE-DATA.md`.
+- Climate values from WorldClim 2.1 (`background_grid.csv` and the bioclimatic
+  columns): WorldClim terms; cite Fick & Hijmans (2017).
 
 Citation details are in `CITATION.cff`.

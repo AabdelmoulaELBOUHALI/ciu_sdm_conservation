@@ -25,12 +25,17 @@ the authors and cite the article and this repository.
 
 The occurrence records in `data/` (`*_raw_occurrences.csv`,
 `*_clean_occurrences.csv`) and the modelling datasets built from them
-(`*_dataset.npz`, `*_spatial_folds.npz`, `background_grid.csv`) contain records
-obtained from GBIF.org (occurrence search, accessed 23 April 2026). Each record
-remains under the licence chosen by its original publisher (CC0 1.0, CC BY 4.0
-or CC BY-NC 4.0). These records are not relicensed by the authors. When reusing
-them, cite GBIF.org and respect the licence of each record; records under
-CC BY-NC 4.0 may not be used for commercial purposes.
+(`*_dataset.npz`, `*_spatial_folds.npz`) contain records obtained from GBIF.org
+(occurrence search, accessed 23 April 2026). Each record remains under the
+licence chosen by its original publisher (CC0 1.0, CC BY 4.0 or CC BY-NC 4.0).
+These records are not relicensed by the authors. When reusing them, cite
+GBIF.org and respect the licence of each record; records under CC BY-NC 4.0 may
+not be used for commercial purposes.
 
-The bioclimatic values in these files were extracted from WorldClim 2.1
-(Fick & Hijmans, 2017); the WorldClim rasters are not included.
+## Climate values from WorldClim 2.1: WorldClim terms
+
+`background_grid.csv` and the bioclimatic columns of the files above contain
+values extracted from WorldClim 2.1 (Fick & Hijmans, 2017), which provides its
+data for use in research and related activities. These values are not
+relicensed by the authors; when reusing them, cite Fick & Hijmans (2017). The
+WorldClim rasters themselves are not included.
