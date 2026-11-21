@@ -1,0 +1,27 @@
+{
+  "title": "Code and data for: Contextual Importance and Utility: Separating Climatic Drivers from Limiting Factors in Species Distribution Models for Bird Conservation",
+  "upload_type": "software",
+  "version": "1.0.1",
+  "description": "<p>Code, processed data, fitted models and results for the article \"Contextual Importance and Utility: Separating Climatic Drivers from Limiting Factors in Species Distribution Models for Bird Conservation\" (submitted to Journal for Nature Conservation).</p><p>Code: MIT License. Models, results and figures: CC BY 4.0. Occurrence records from GBIF.org (accessed 23 April 2026) remain under the licences of their original publishers (see LICENSE-DATA.md). WorldClim 2.1 rasters are not included; step 1 downloads them.</p>",
+  "creators": [
+    {
+      "name": "EL BOUHALI, Abdel Moula",
+      "affiliation": "ENSIAS, Mohammed V University in Rabat",
+      "orcid": "0009-0001-5117-2713"
+    },
+    {
+      "name": "Idri, Ali",
+      "affiliation": "ENSIAS, Mohammed V University in Rabat",
+      "orcid": "0000-0002-4586-4158"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "keywords": [
+    "species distribution models",
+    "explainable artificial intelligence",
+    "contextual importance and utility",
+    "limiting factors",
+    "Moroccan avifauna"
+  ]
+}
